@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31462527126",
+    "project_id": "newsapp-31b4a",
+    "storage_bucket": "newsapp-31b4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31462527126:android:0a33b1b28544f3f1cef2b7",
+        "android_client_info": {
+          "package_name": "com.rachel.newsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31462527126-4s53ugnn7292q2b0a34v9ln66e66r8vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUqwyL5ZllWbmzNCjf0DlXDPFkz5pZTa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31462527126-4s53ugnn7292q2b0a34v9ln66e66r8vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
